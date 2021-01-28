@@ -1,0 +1,14 @@
+testaspx.vulnweb.com
+testap.vulnweb.com
+test.php.vulnweb.com
+www.dealer.vulnweb.com
+htttestphp.vulnweb.com
+gd.vulnweb.com
+aspnet.vulnweb.com
+rest.vulnweb.com
+wsdtest6.vulnweb.com
+www.virus.vulnweb.com
+phptest.vulnweb.com
+testhtml.vulnweb.com
+autoconfig.demo.vulnweb.com
+php.vulnweb.com

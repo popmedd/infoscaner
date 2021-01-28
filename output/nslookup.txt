@@ -1,0 +1,92 @@
+Searching A address record(IPv4)
+
+服务器:  public1.114dns.com
+Address:  114.114.114.114
+
+名称:    www.a.shifen.com
+Addresses:  39.156.66.14
+	  39.156.66.18
+Aliases:  www.baidu.com
+
+Searching AAAA address record(IPv6)
+
+服务器:  public1.114dns.com
+Address:  114.114.114.114
+
+名称:    www.baidu.com
+
+View the naming server NS
+
+服务器:  public1.114dns.com
+Address:  114.114.114.114
+
+www.baidu.com	canonical name = www.a.shifen.com
+
+a.shifen.com
+	primary name server = ns1.a.shifen.com
+	responsible mail addr = baidu_dns_master.baidu.com
+	serial  = 2011100005
+	refresh = 5 (5 secs)
+	retry   = 5 (5 secs)
+	expire  = 2592000 (30 days)
+	default TTL = 3600 (1 hour)
+Check how long DNS cache records have been kept
+
+DNS request timed out.
+    timeout was 2 seconds.
+timeout (2 secs)
+服务器:  UnKnown
+Address:  114.114.114.114
+
+------------
+Got answer:
+    HEADER:
+	opcode = QUERY, id = 2, rcode = NOERROR
+	header flags:  response, want recursion, recursion avail.
+	questions = 1,  answers = 3,  authority records = 0,  additional = 0
+
+    QUESTIONS:
+	www.baidu.com, type = A, class = IN
+    ANSWERS:
+    ->  www.baidu.com
+	canonical name = www.a.shifen.com
+	ttl = 1091 (18 mins 11 secs)
+    ->  www.a.shifen.com
+	internet address = 39.156.66.14
+	ttl = 221 (3 mins 41 secs)
+    ->  www.a.shifen.com
+	internet address = 39.156.66.18
+	ttl = 221 (3 mins 41 secs)
+
+------------
+------------
+Got answer:
+    HEADER:
+	opcode = QUERY, id = 3, rcode = NOERROR
+	header flags:  response, want recursion, recursion avail.
+	questions = 1,  answers = 1,  authority records = 1,  additional = 0
+
+    QUESTIONS:
+	www.baidu.com, type = AAAA, class = IN
+    ANSWERS:
+    ->  www.baidu.com
+	canonical name = www.a.shifen.com
+	ttl = 1091 (18 mins 11 secs)
+    AUTHORITY RECORDS:
+    ->  a.shifen.com
+	ttl = 49 (49 secs)
+	primary name server = ns1.a.shifen.com
+	responsible mail addr = baidu_dns_master.baidu.com
+	serial  = 2011100005
+	refresh = 5 (5 secs)
+	retry   = 5 (5 secs)
+	expire  = 2592000 (30 days)
+	default TTL = 3600 (1 hour)
+
+------------
+名称:    www.a.shifen.com
+Addresses:  39.156.66.14
+	  39.156.66.18
+Aliases:  www.baidu.com
+
+

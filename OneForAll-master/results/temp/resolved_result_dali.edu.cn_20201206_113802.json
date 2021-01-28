@@ -1,0 +1,2 @@
+{"name":"dali.edu.cn.","type":"A","class":"IN","status":"NOERROR","data":{"authorities":[{"ttl":3589,"type":"SOA","class":"IN","name":"dali.edu.cn.","data":"win-6p30v3ulqqq. hostmaster. 175 900 600 14400 3600"}]},"resolver":"180.76.76.76:53"}
+{"name":"kjc.dali.edu.cn.","type":"A","class":"IN","status":"NOERROR","data":{"answers":[{"ttl":3600,"type":"A","class":"IN","name":"kjc.dali.edu.cn.","data":"202.203.16.36"}]},"resolver":"119.29.29.29:53"}

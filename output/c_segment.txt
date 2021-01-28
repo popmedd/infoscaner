@@ -1,0 +1,14 @@
+testphp.vulnweb.com
+
+IP地址  18.192.172.30
+公司  美国 Amazon数据中心
+站点容器  nginx/1.4.1
+
+
+AcunetixWebVulnerabilityScannerTestwebsites  www.vulnweb.com
+HomeofAcunetixArt  testphp.vulnweb.com
+SecurityTweetsHTML5testwebsiteforAcunetixWebVulnerabilityScanner  testhtml5.vulnweb.com
+HomeofAcunetixArt  testephp.vulnweb.com
+HomeofAcunetixArt  test.php.vulnweb.com
+Home of Acunetix Art  test.vulnweb.com
+Home of Acunetix Art  www.test.vulnweb.com

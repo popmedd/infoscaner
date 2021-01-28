@@ -1,0 +1,107 @@
+主办单位名称       北京百度网讯科技有限公司
+主办单位性质       京ICP证030173号-1
+网站名称       百度
+网站首页地址       www.baidu.com
+认证       https://v.yunaq.com/certificate?domain=www.baidu.com&code=90030
+网站域名       baidu.com
+备案号         京ICP证030173号-1
+审核时间       2020-08-05
+该单位备案网站                 网站名称                网站首页地址                审核时间
+
+
+京ICP证030173号-1             百度         www.baidu.com        2017-08-29
+京ICP证030173号-104             百度智能落地门户         www.aipage.com        2019-02-03
+京ICP证030173号-105             简单搜索门户         www.searchcraft.cn        2017-12-22
+京ICP证030173号-106             北京百度网讯科技有限公司         www.baiduads.com        2019-05-21
+京ICP证030173号-108             智能小程序门户         www.smartapps.cn        2019-02-03
+京ICP证030173号-109             百度云云市场API网关         www.bdymkt.com        2019-05-21
+京ICP证030173号-11             搜索研发部官方网站         www.baidu-tech.com        2019-05-21
+京ICP证030173号-110             统计数据         www.bdtjrcv.com        2019-05-21
+京ICP证030173号-112             百度         www.baidu.cn        2019-05-21
+京ICP证030173号-113             百度统一前端平台         www.bfe-networks.com        2019-05-21
+京ICP证030173号-116             PaddlePaddle飞桨         www.paddlepaddle.org.cn        2019-05-21
+京ICP证030173号-12             无线图片服务         www.baidu-img.cn<br />www.baidu-1img.cn<br />www.baidu-2img.cn<br />www.baidu-3img.cn        2019-05-21
+京ICP证030173号-120             百度云加速         www.yunjiasu-cdn.net        2019-05-21
+京ICP证030173号-124             百度云加速         www.yunjiasu.com        2019-05-21
+京ICP证030173号-13             无线thumbnail服务1         www.baidu-jpgnew.com        2019-05-21
+京ICP证030173号-144             好看         www.haokan.com        2020-08-05
+京ICP证030173号-15             无线thumbnail服务3         www.baidu-jpg.com        2019-05-21
+京ICP证030173号-159             爱企查         www.aiqicha.com        2020-08-05
+京ICP证030173号-16             无线thumbnail服务4         www.baidu-imgnew.com        2019-05-21
+京ICP证030173号-17             百度         www.baidu.com.cn        2019-05-21
+京ICP证030173号-18             鸿媒体         www.hongmeiti.com        2016-06-02
+京ICP证030173号-2             百度空间         www.bdimg.com        2020-07-17
+京ICP证030173号-20             新知         www.xinzhi.com        2016-06-02
+京ICP证030173号-21             百度短网址         www.duapp.com<br />www.dwz.cn        2019-02-03
+京ICP证030173号-22             百度网页翻译         www.baiducontent.com        2019-09-27
+京ICP证030173号-23             百度网页检索静态内容服务         www.bdstatic.com<br />www.bdstatic.cn        2020-08-05
+京ICP证030173号-24             百度阳光行动官方网站百度蒲公英计划         www.baiduyangguang.org        2019-05-21
+京ICP证030173号-25             网址之家         hao123.com        2020-08-05
+京ICP证030173号-26             悠洋游戏         swan366.com        2016-06-02
+京ICP证030173号-27             百度网盟推广         www.baidustatic.com        2019-05-21
+京ICP证030173号-28             易游百度         www.eyoubaidu.com        2016-06-02
+京ICP证030173号-29             百度网盘         www.baidupcs.com        2019-05-21
+京ICP证030173号-3             百度泛用客户体验         www.baiduux.com        2019-05-21
+京ICP证030173号-30             百度         www.百度网站.cn        2019-12-02
+京ICP证030173号-31             百度汇         www.baiduhui.com        2019-05-21
+京ICP证030173号-32             百度金融         www.baidu-bank.com        2019-05-21
+京ICP证030173号-33             百度魔图         www.jingling.cn        2016-06-02
+京ICP证030173号-34             百度贴吧         www.tieba.com        2020-08-05
+京ICP证030173号-35             百度网站管家         www.bddns.cn        2019-05-21
+京ICP证030173号-36             百度游戏         sanguows.com        2016-06-02
+京ICP证030173号-37             百付宝         www.baifubao.com        2020-04-07
+京ICP证030173号-38             好123         www.hao123.net        2017-01-10
+京ICP证030173号-4             百度游戏联运产品         www.baiduwebgame.com        2019-05-21
+京ICP证030173号-40             ES文件浏览器         www.estrongs.com        2017-01-10
+京ICP证030173号-41             百度风火轮         www.fhldns.com        2016-06-02
+京ICP证030173号-42             百度开放云Clouda开放框架官方网站         www.Cloudajs.org        2019-05-21
+京ICP证030173号-43             度学堂         www.duxuetang.com        2016-06-02
+京ICP证030173号-44             贴吧智能版图片         www.tiebaimg.com        2016-06-02
+京ICP证030173号-45             糯米网         www.nuomi.com        2019-12-02
+京ICP证030173号-47             百度公有云-开放云         www.baidubce.com        2020-08-05
+京ICP证030173号-5             JOMODNS         www.jomodns.com        2019-10-29
+京ICP证030173号-50             百度云CDN         www.bce-cdn.com        2019-05-21
+京ICP证030173号-51             百度云DNS         www.bcedns.com        2019-05-21
+京ICP证030173号-52             千寻浏览器         www.qxllq.com        2017-08-29
+京ICP证030173号-53             玩吧在线         www.vplay8.com        2016-06-02
+京ICP证030173号-54             百度应用引擎         www.bdbae.com        2019-05-21
+京ICP证030173号-55             百度云主机         www.bdysite.com        2020-08-05
+京ICP证030173号-56             北京百度网讯科技有限公司         www.bcelive.com        2019-05-21
+京ICP证030173号-57             北京百度网讯科技有限公司         www.bceimg.com        2019-05-21
+京ICP证030173号-58             北京百度网讯科技有限公司         www.bceapp.com        2019-09-27
+京ICP证030173号-59             北京百度网讯科技有限公司         www.bcevod.com        2019-05-21
+京ICP证030173号-6             百度空间         www.baiduapp.com        2019-05-21
+京ICP证030173号-60             北京百度网讯科技有限公司         www.bdycdn.com        2019-05-21
+京ICP证030173号-62             北京百度网讯科技有限公司         www.bcedocument.com        2019-05-21
+京ICP证030173号-63             百金CDN         www.baijincdn.cn        2020-08-05
+京ICP证030173号-64             北京百度网讯科技有限公司         www.mipplan.org        2018-10-23
+京ICP证030173号-65             DUGroup         www.duapps.com        2017-08-29
+京ICP证030173号-66             百金cdn         www.baijincdn.com        2019-05-21
+京ICP证030173号-67             91门户         www.91.com        2020-08-05
+京ICP证030173号-68             安卓网         www.hiapk.com        2020-08-05
+京ICP证030173号-7             百度无线         www.baidu.mobi        2019-05-21
+京ICP证030173号-72             MIPCache         www.mipcdn.com        2019-09-27
+京ICP证030173号-79             OpenRASP         www.openrasp.cn        2018-07-09
+京ICP证030173号-8             联盟志         www.umaz.cn        2017-01-10
+京ICP证030173号-81             baidu-int门户         www.baidu-int.com        2019-05-21
+京ICP证030173号-82             siteapp-static门户         www.siteapp-static.com        2017-12-22
+京ICP证030173号-83             百度DNS         www.wshifen.com        2019-05-21
+京ICP证030173号-84             百度apollo门户         www.apollo.auto        2019-02-03
+京ICP证030173号-85             百度bae         www.baeapps.com        2019-02-03
+京ICP证030173号-86             百度传课门户         www.chuanke.com        2019-12-02
+京ICP证030173号-87             百度文库门户         www.wenku.in        2017-12-22
+京ICP证030173号-88             百度香港门户         www.baidu.hk        2019-05-21
+京ICP证030173号-89             百度香港门户         www.baidu.com.hk        2019-05-21
+京ICP证030173号-9             网址之家hao123         www.hao222.net<br />www.hao222.com        2017-01-10
+京ICP证030173号-91             百度阅读门户         www.daoru.in        2017-12-22
+京ICP证030173号-99             百度云加速         www.yjs-cdn.com        2018-12-20
+
+
+icp.chinaz.com
+
+主办单位名称   北京百度网讯科技有限公司
+主办单位性质   企业
+网站备案/许可证号  京ICP证030173号-1
+网站名称   百度
+网站首页地址   baidu.com
+审核时间   2020-08-05

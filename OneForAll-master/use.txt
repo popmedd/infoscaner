@@ -1,0 +1,1 @@
+python3 ./OneForAll-master/oneforall.py --target  vulnweb.com run --format result.txt --path E:/vuln_eremsion/xray_windows_amd64_1.3.3/res.txt
